@@ -1,0 +1,26 @@
+Test 1: 1,2,0,-2,-1,0,1
+About to process line: 1,2,0,-2,-1,0,1
+
+Read in  7 integers: Integers: [1, 2, 0, -2, -1, 0, 1, ]
+Starting inference...
+Predicted value = 111
+USB print time (us): 187
+Inference time (us): 958
+
+Test 2: 0,1,0,-1,0,1,0
+About to process line: 0,1,0,-1,0,1,0
+
+Read in  7 integers: Integers: [0, 1, 0, -1, 0, 1, 0, ]
+Starting inference...
+Predicted value = 111
+USB print time (us): 268
+Inference time (us): 957
+
+Test 3: 1,2,3,4,5,6,7
+About to process line: 1,2,3,4,5,6,7
+
+Read in  7 integers: Integers: [1, 2, 3, 4, 5, 6, 7, ]
+Starting inference...
+Predicted value = 111
+USB print time (us): 224
+Inference time (us): 940
